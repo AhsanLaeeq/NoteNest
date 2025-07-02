@@ -1,0 +1,26 @@
+.fancy-footer {
+  text-align: center;
+  padding: 1.8rem;
+  background: linear-gradient(120deg, #141e30, #243b55);
+  color: #e0e0e0;
+  font-size: 0.95rem;
+  border-top: 3px solid #00f2fe;
+  animation: fadeSlideUp 1s ease-in-out;
+  box-shadow: 0 -8px 20px rgba(0, 255, 255, 0.1);
+}
+
+.fancy-footer p {
+  margin: 5px 0;
+  letter-spacing: 0.5px;
+}
+
+@keyframes fadeSlideUp {
+  from {
+    transform: translateY(30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}

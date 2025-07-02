@@ -1,0 +1,71 @@
+.notes-header {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(12px);
+  padding: 2rem 1rem;
+  text-align: center;
+  border-bottom: 2px solid #00f2fe;
+  box-shadow: 0 10px 30px rgba(0, 217, 255, 0.2);
+  animation: slideFadeIn 1s ease;
+}
+
+.notes-container {
+  max-width: 900px;
+  margin: auto;
+}
+
+.notes-title {
+  font-size: 2.8rem;
+  font-weight: 800;
+  color: #ffffff;
+  letter-spacing: 1px;
+  text-shadow: 0 0 10px #00f2fe, 0 0 20px #00f2fe;
+  animation: glowPulse 2s ease-in-out infinite;
+}
+
+.notes-subtitle {
+  font-size: 1.1rem;
+  font-weight: 300;
+  margin-top: 0.5rem;
+  color: rgba(255, 255, 255, 0.9);
+  animation: fadeInUp 2s ease;
+}
+
+/* Background suggestion (optional) */
+body {
+  background: linear-gradient(to right, #1c1c1c, #232526);
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Animations */
+@keyframes slideFadeIn {
+  0% {
+    transform: translateY(-30px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes glowPulse {
+  0%, 100% {
+    text-shadow: 0 0 15px #00f2fe, 0 0 30px #00f2fe;
+  }
+  50% {
+    text-shadow: 0 0 25px #00d4ff, 0 0 40px #00d4ff;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
