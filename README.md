@@ -1,12 +1,76 @@
-# React + Vite
+````markdown
+# 📝 NoteNest
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautiful, responsive note-taking app built with **React + Vite**, where you can create, edit, delete, and store notes persistently in **localStorage**. Your ideas, always within reach.
 
-Currently, two official plugins are available:
+🌐 **Live Demo**: [NoteNest ↗](https://ahsanlaeeq.github.io/NoteNest/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+![NoteNest Preview](https://github.com/AhsanLaeeq/NoteNest/assets/your-image-preview.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- ✅ Add new notes
+- ✅ Edit notes inline
+- ✅ Delete notes
+- ✅ Smooth animations and attractive UI
+- ✅ Notes saved in local storage (persistent on refresh)
+- ✅ Responsive for all devices
+- ✅ Styled with modern glowing effects and scrollable note list
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [UUID](https://www.npmjs.com/package/uuid)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/AhsanLaeeq/NoteNest.git
+cd NoteNest
+npm install
+npm run dev
+````
+
+To build for production:
+
+```bash
+npm run build
+```
+
+To deploy on GitHub Pages:
+
+```bash
+npm run deploy
+```
+
+---
+
+## 👨‍💻 Author
+
+**Ahsan Laeeq**
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahsanlaeeq)
+
+---
+
+## 🖼 Preview
+
+![NoteNest Screenshot](https://ahsanlaeeq.github.io/NoteNest/assets/preview.png)
+
+---
+
+⭐ If you like this project, please consider giving it a star on [GitHub](https://github.com/AhsanLaeeq/NoteNest)!
+
+````
+
+---
+
