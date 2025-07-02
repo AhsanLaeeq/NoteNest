@@ -1,8 +1,7 @@
-
 ````markdown
 # 📝 NoteNest
 
-A beautiful, responsive note-taking app built with **React + Vite**, where you can create, edit, delete, and store notes persistently in **localStorage**. Your ideas, always within reach.
+A glowing, responsive note-taking app built using **React + Vite**. NoteNest lets you **create**, **edit**, and **delete** notes with a modern UI and stores them in **localStorage** so they never disappear—even after refreshing!
 
 🔗 **Live Preview:**  
 👉 [https://ahsanlaeeq.github.io/NoteNest/](https://ahsanlaeeq.github.io/NoteNest/)
@@ -12,15 +11,15 @@ A beautiful, responsive note-taking app built with **React + Vite**, where you c
 ## ✨ Features
 
 - ✅ Add new notes
-- ✅ Edit notes inline
-- ✅ Delete notes
-- ✅ Smooth animations and glowing UI
-- ✅ Auto-saves to localStorage
-- ✅ Responsive for all devices
+- ✅ Edit existing notes
+- ✅ Delete notes easily
+- ✅ Notes persist in localStorage
+- ✅ Neon-glow themed UI
+- ✅ Fully responsive for all screen sizes
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
@@ -29,18 +28,28 @@ A beautiful, responsive note-taking app built with **React + Vite**, where you c
 
 ---
 
-## 🚀 Getting Started
+## 🛠️ Getting Started
 
-### Clone & Run Locally:
+### Clone the repo:
 
 ```bash
 git clone https://github.com/AhsanLaeeq/NoteNest.git
 cd NoteNest
-npm install
-npm run dev
 ````
 
-### Build for Production:
+### Install dependencies:
+
+```bash
+npm install
+```
+
+### Run in dev mode:
+
+```bash
+npm run dev
+```
+
+### Build for production:
 
 ```bash
 npm run build
@@ -57,7 +66,7 @@ npm run deploy
 ## 👨‍💻 Author
 
 **Ahsan Laeeq**
-🔗 [LinkedIn: linkedin.com/in/ahsanlaeeq](https://www.linkedin.com/in/ahsanlaeeq)
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/ahsan-laeeq-22a085348)
 
 ---
 
@@ -67,4 +76,4 @@ npm run deploy
 
 ---
 
-⭐ If you like this project, feel free to [star it on GitHub](https://github.com/AhsanLaeeq/NoteNest)!
+⭐ *If you enjoyed this project, give it a star on [GitHub](https://github.com/AhsanLaeeq/NoteNest)!*
