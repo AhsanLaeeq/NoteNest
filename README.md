@@ -1,3 +1,7 @@
+Thanks! I've updated the `README.md` to make the **preview link clickable and correctly formatted**. Here's your final version:
+
+---
+
 ````markdown
 # 📝 NoteNest
 
@@ -72,8 +76,11 @@ npm run deploy
 
 ## 🖼️ Project Preview
 
-![NoteNest Preview](https://ahsanlaeeq.github.io/NoteNest/assets/preview.png)
+[https://ahsanlaeeq.github.io/NoteNest/](https://ahsanlaeeq.github.io/NoteNest/)
 
 ---
 
 ⭐ *If you enjoyed this project, give it a star on [GitHub](https://github.com/AhsanLaeeq/NoteNest)!*
+
+```
+
