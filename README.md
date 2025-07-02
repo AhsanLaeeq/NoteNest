@@ -1,23 +1,22 @@
+
 ````markdown
 # 📝 NoteNest
 
 A beautiful, responsive note-taking app built with **React + Vite**, where you can create, edit, delete, and store notes persistently in **localStorage**. Your ideas, always within reach.
 
-🌐 **Live Demo**: [NoteNest ↗](https://ahsanlaeeq.github.io/NoteNest/)
+🔗 **Live Preview:**  
+👉 [https://ahsanlaeeq.github.io/NoteNest/](https://ahsanlaeeq.github.io/NoteNest/)
 
 ---
-
-![NoteNest Preview](https://github.com/AhsanLaeeq/NoteNest/assets/your-image-preview.png)
 
 ## ✨ Features
 
 - ✅ Add new notes
 - ✅ Edit notes inline
 - ✅ Delete notes
-- ✅ Smooth animations and attractive UI
-- ✅ Notes saved in local storage (persistent on refresh)
+- ✅ Smooth animations and glowing UI
+- ✅ Auto-saves to localStorage
 - ✅ Responsive for all devices
-- ✅ Styled with modern glowing effects and scrollable note list
 
 ---
 
@@ -32,7 +31,7 @@ A beautiful, responsive note-taking app built with **React + Vite**, where you c
 
 ## 🚀 Getting Started
 
-To run this project locally:
+### Clone & Run Locally:
 
 ```bash
 git clone https://github.com/AhsanLaeeq/NoteNest.git
@@ -41,13 +40,13 @@ npm install
 npm run dev
 ````
 
-To build for production:
+### Build for Production:
 
 ```bash
 npm run build
 ```
 
-To deploy on GitHub Pages:
+### Deploy to GitHub Pages:
 
 ```bash
 npm run deploy
@@ -58,19 +57,14 @@ npm run deploy
 ## 👨‍💻 Author
 
 **Ahsan Laeeq**
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahsanlaeeq)
+🔗 [LinkedIn: linkedin.com/in/ahsanlaeeq](https://www.linkedin.com/in/ahsanlaeeq)
 
 ---
 
-## 🖼 Preview
+## 🖼️ Project Preview
 
-![NoteNest Screenshot](https://ahsanlaeeq.github.io/NoteNest/assets/preview.png)
-
----
-
-⭐ If you like this project, please consider giving it a star on [GitHub](https://github.com/AhsanLaeeq/NoteNest)!
-
-````
+![NoteNest Preview](https://ahsanlaeeq.github.io/NoteNest/assets/preview.png)
 
 ---
 
+⭐ If you like this project, feel free to [star it on GitHub](https://github.com/AhsanLaeeq/NoteNest)!
