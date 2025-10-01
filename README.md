@@ -1,8 +1,4 @@
-Thanks! I've updated the `README.md` to make the **preview link clickable and correctly formatted**. Here's your final version:
 
----
-
-````markdown
 # 📝 NoteNest
 
 A glowing, responsive note-taking app built using **React + Vite**. NoteNest lets you **create**, **edit**, and **delete** notes with a modern UI and stores them in **localStorage** so they never disappear—even after refreshing!
